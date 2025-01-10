@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @tenn-oz
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenn-oz&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenn-oz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tenn-oz" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tenn-oz&layout=compact&card_width=320" />
+</a>
 
 
 <!---
