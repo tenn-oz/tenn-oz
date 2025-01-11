@@ -1,15 +1,15 @@
 - 👋 Hi, I’m @tenn-oz
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=160px src="https://github-readme-stats.vercel.app/api?username=tenn-oz" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs?username=tenn-oz&layout=compact" />
-  </a>
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tenn-oz&theme=default" />
-</p>
+### Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150px src="https://github-readme-stats.vercel.app/api?username=tenn-oz" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=150px src="https://github-readme-stats.vercel.app/api/top-langs?username=tenn-oz&layout=compact" />
+</a>
+
+### Contributions
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tenn-oz&theme=default" />
 
 
 <!---
