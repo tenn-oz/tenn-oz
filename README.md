@@ -7,6 +7,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tenn-oz&layout=compact&card_width=320" />
 </a>
 
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tenn-oz&theme=default" />
+
 
 <!---
 tenn-oz/tenn-oz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
